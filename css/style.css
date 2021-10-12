@@ -4,10 +4,14 @@
   top: 0;
   left: 0;
   width: 100%;
-  background-color: yellow;
+  background-color: rgb(216, 216, 200);
   text-align: center;
   font-weight: bold;
   opacity: 0.5;
+}
+
+.enis {
+  color:red;
 }
 
 #resolution:after {
