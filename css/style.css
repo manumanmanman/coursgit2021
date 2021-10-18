@@ -1,3 +1,8 @@
+body{
+  background-color: pink;
+}
+
+
 #resolution {
   height: 40px;
   position: fixed;
