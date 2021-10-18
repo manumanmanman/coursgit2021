@@ -1,6 +1,4 @@
-body{
-  background-color: blue;
-}
+
 
 #resolution {
   height: 40px;
@@ -13,7 +11,9 @@ body{
   font-weight: bold;
   opacity: 0.5;
 }
-
+body{
+  background-color: aqua;
+}
 .enis {
   color:red;
 }
