@@ -1,3 +1,7 @@
+h1{
+  color: yellow;
+}
+
 #resolution {
   height: 40px;
   position: fixed;
