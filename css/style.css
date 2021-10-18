@@ -2,6 +2,10 @@ body{
   background-color: blue;
 }
 
+h1{
+  color: purple;
+}
+
 #resolution {
   height: 40px;
   position: fixed;
