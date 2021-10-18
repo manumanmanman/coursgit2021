@@ -1,6 +1,9 @@
 h1{
   color: yellow;
 }
+h2{
+  color :black;
+}
 
 #resolution {
   height: 40px;
